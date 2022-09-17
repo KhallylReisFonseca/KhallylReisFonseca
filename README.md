@@ -1,6 +1,6 @@
 <img src = "gif1.gif" width = "325px" align = "right">
 
-## Olá, tudo bem? 👋👋
+# Olá, tudo bem? 👋👋
 
 Seja bem vindo ao meu perfil pessoal do Github!
 
@@ -8,7 +8,7 @@ Seja bem vindo ao meu perfil pessoal do Github!
 - Sou estudante da Trybe!  <img src = "trybeicon2.png" width = "25px" align = "center">
 - Aqui você ira encontrar alguns de meus projetos pessoais e repositórios do curso!
 
-🚀🚀VAMO QUE VAMO!!!🚀🚀
+## 🚀🚀VAMO QUE VAMO!!!🚀🚀
 
 ---
 
