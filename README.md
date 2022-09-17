@@ -1,11 +1,11 @@
-<img src = "gif1.gif" width = "325px" align = "right" >
+<img src = "gif1.gif" width = "325px" align = "right">
 
 ## Olá, tudo bem? 👋👋
 
 Seja bem vindo ao meu perfil pessoal do Github!
 
 - Me chamo Khallyl Reis Fonseca!
-- Sou estudante da Trybe!
+- Sou estudante da Trybe!  <img src = "trybeicon2.png" width = "25px" align = "center">
 - Aqui você ira encontrar alguns de meus projetos pessoais e repositórios do curso!
 
 🚀🚀VAMO QUE VAMO!!!🚀🚀
