@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @KhallylReisFonseca
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src = "gif1.gif">
 
-<!---
-KhallylReisFonseca/KhallylReisFonseca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, tudo bem?
+
+Seja bem vindo ao meu perfil pessoal do Github!
+
+Me chamo Khallyl Reis Fonseca e aqui você ira encontrar alguns de meus projetos e repositórios!
+
+BORA CODAR!!!!
