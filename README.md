@@ -5,7 +5,6 @@
 Seja bem vindo ao meu perfil pessoal do Github!
 
 - Me chamo <b>Khallyl Reis Fonseca!</b>
-- Atualmente sou estudante da Trybe!  <img src = "trybeicon2.png" width = "25px" align = "center">
 - Aqui você ira encontrar alguns de meus projetos pessoais e repositórios/projetos feitos durante os cursos!
 
 ## 🚀🚀VAMO QUE VAMO!!!🚀🚀
